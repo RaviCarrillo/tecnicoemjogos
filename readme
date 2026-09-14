@@ -1,0 +1,60 @@
+# Técnico em Desenvolvimento de Jogos - SENAC
+
+Este diretório foi criado para organizar os materiais, exercícios, projetos e anotações do curso de Técnico em Desenvolvimento de Jogos do SENAC.
+
+## Objetivo do curso
+
+Aprender os conceitos fundamentais da criação de jogos digitais, incluindo:
+
+- lógica de programação
+- design de jogos
+- arte e interface
+- produção de conteúdo
+- desenvolvimento de protótipos
+- uso de engines e ferramentas de criação
+
+## O que será estudado
+
+- Introdução ao desenvolvimento de jogos
+- Programação básica e estruturas de dados
+- Game design e mecânicas
+- Criação de personagens, cenários e interfaces
+- Uso de ferramentas como Unity, Unreal, Photoshop/GIMP ou editor de imagem
+- Organização de projetos e versionamento
+- Testes, ajustes e publicação
+
+## Estrutura sugerida da pasta
+
+Você pode usar esta pasta para separar os conteúdos do curso em pastas como:
+
+- `aulas/` - materiais e anotações das aulas
+- `exercicios/` - atividades práticas e desafios
+- `projetos/` - projetos desenvolvidos ao longo do curso
+- `recursos/` - imagens, sons, fontes e arquivos de apoio
+- `referencias/` - links, tutoriais e materiais de estudo
+
+## Metas pessoais
+
+Ao final do curso, o objetivo é conseguir:
+
+- desenvolver jogos simples e funcionais
+- entender a pipeline de produção de jogos
+- aplicar lógica de programação em gameplay
+- criar experiências interativas com boa usabilidade
+- continuar aprendendo sobre tecnologia e design de jogos
+
+## Dicas para estudar
+
+- mantenha seus arquivos organizados
+- anote o que aprendeu em cada aula
+- pratique com pequenos projetos
+- revise os conceitos de programação frequentemente
+- busque referências e exemplos de jogos reais
+
+## Observação
+
+Este repositório é um espaço de estudo e evolução. Cada projeto e arquivo dentro desta pasta representa parte do aprendizado durante o curso.
+
+---
+
+Feito para acompanhar o início da jornada em desenvolvimento de jogos.
