@@ -1,0 +1,39 @@
+O que é GDD (Game Design Document)
+
+O GDD, ou Game Design Document, é um documento que reúne todas as ideias, regras e decisões de design de um jogo antes, durante e, às vezes, depois do desenvolvimento.
+
+Ele funciona como um "mapa" do projeto. Serve para registrar:
+- a ideia central do jogo;
+- o público-alvo;
+- os objetivos do jogador;
+- a mecânica principal;
+- os personagens;
+- o mundo e a história;
+- os sistemas de progressão;
+- os desafios, regras, interfaces e feedback;
+- o estilo visual e sonoro;
+- e a estrutura de níveis ou fases.
+
+Em outras palavras, o GDD explica como o jogo deve funcionar e como ele deve ser experienciado pelo jogador.
+
+Por que ele é importante?
+- ajuda a alinhar a equipe (programadores, artistas, designers, produtores);
+- evita dúvidas e retrabalho;
+- facilita a tomada de decisões durante o desenvolvimento;
+- ajuda a manter a visão original do jogo;
+- serve como referência para testes e ajustes.
+
+O nível de detalhe do GDD pode variar:
+- um GDD curto e simples, para projetos pequenos;
+- um GDD completo e detalhado, para jogos maiores e mais complexos.
+
+Exemplo simples:
+Um jogo de plataforma pode ter um GDD com informações como:
+- objetivo: atravessar fases e coletar chaves;
+- mecânicas: pular, correr, atacar e interagir com objetos;
+- inimigos: cada um com comportamento diferente;
+- dificuldade: fases mais desafiadoras conforme avança;
+- visual: estilo 2D com paleta colorida;
+- feedback: partículas ao coletar itens e animações de dano.
+
+Em resumo, o GDD é o documento de referência que transforma uma ideia de jogo em algo organizado, compreensível e produzível pela equipe.
