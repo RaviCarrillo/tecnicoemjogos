@@ -1,6 +1,6 @@
 # "O Espetacular Homem-Aranha: O Nascimento do Venom"
 
-- Eu sou o Peter Parker, e mano, talvez essa história seja o exato momento em que a minha vida se divide em duas: a do estudante que tenta passar na faculdade e a do Homem-Aranha, que não consegue desligar a responsabilidade nem quando o relógio já passou da meia-noite.
+- Eu sou o Peter Parker, e talvez essa história seja o exato momento em que a minha vida se divide em duas: a do estudante que tenta passar na faculdade e a do Homem-Aranha, que não consegue desligar a responsabilidade nem quando o relógio já passou da meia-noite.
 - Quando me vejo como Peter, penso em todas as contas, nas provas, nos perrengues do dia a dia e na sensação de que cada decisão pesa toneladas. Quando me vejo como Homem-Aranha, a dor do mundo parece maior do que a do meu próprio corpo: eu tenho que agir antes que alguém caia, antes que um vilão faça alguma besteira sem volta.
 
 ## O que acontece na história
